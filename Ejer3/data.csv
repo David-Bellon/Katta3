@@ -1,0 +1,71 @@
+,nombre,largo,tripulacion,pasajeros
+0,Sand Crawler,36.8,46.0,30.0
+1,T-16 skyhopper,10.4,1.0,1.0
+2,X-34 landspeeder,3.4,1.0,1.0
+3,TIE/LN starfighter,6.4,1.0,0.0
+4,Snowspeeder,4.5,2.0,0.0
+5,TIE bomber,7.8,1.0,0.0
+6,AT-AT,20.0,5.0,40.0
+7,AT-ST,2.0,2.0,0.0
+8,Storm IV Twin-Pod cloud car,7.0,2.0,0.0
+9,Sail barge,30.0,26.0,500.0
+10,Bantha-II cargo skiff,9.5,5.0,16.0
+11,TIE/IN interceptor,9.6,1.0,0.0
+12,Imperial Speeder Bike,3.0,1.0,1.0
+13,Vulture Droid,3.5,0.0,0.0
+14,Multi-Troop Transport,31.0,4.0,112.0
+15,Armored Assault Tank,9.75,4.0,6.0
+16,Single Trooper Aerial Platform,2.0,1.0,0.0
+17,C-9979 landing craft,210.0,140.0,284.0
+18,Tribubble bongo,15.0,1.0,2.0
+19,Sith speeder,1.5,1.0,0.0
+20,Zephyr-G swoop bike,3.68,1.0,1.0
+21,Koro-2 Exodrive airspeeder,6.6,1.0,1.0
+22,XJ-6 airspeeder,6.23,1.0,1.0
+23,LAAT/i,17.4,6.0,30.0
+24,LAAT/c,28.82,1.0,0.0
+25,Tsmeu-6 personal wheel bike,3.5,1.0,1.0
+26,Droid tri-fighter,5.4,1.0,0.0
+27,Oevvaor jet catamaran,15.1,2.0,2.0
+28,Raddaugh Gnasp fluttercraft,7.0,2.0,0.0
+29,Clone turbo tank,49.4,20.0,300.0
+30,Corporate Alliance tank droid,10.96,0.0,4.0
+31,Droid gunship,12.3,0.0,0.0
+32,AT-RT,3.2,1.0,0.0
+33,AT-TE,13.2,6.0,36.0
+34,SPHA,140.0,25.0,30.0
+35,Flitknot speeder,2.0,1.0,0.0
+36,Neimoidian shuttle,20.0,2.0,6.0
+37,Geonosian starfighter,9.8,1.0,0.0
+38,Executor,19000,279144.0,38000.0
+39,Sentinel-class landing craft,38,5.0,75.0
+40,Death Star,120000,342953.0,843342.0
+41,Millennium Falcon,34.37,4.0,6.0
+42,Y-wing,14,2.0,0.0
+43,X-wing,12.5,1.0,0.0
+44,TIE Advanced x1,9.2,1.0,0.0
+45,Slave 1,21.5,1.0,6.0
+46,Imperial shuttle,20,6.0,20.0
+47,EF76 Nebulon-B escort frigate,300,854.0,75.0
+48,Calamari Cruiser,1200,5400.0,1200.0
+49,A-wing,9.6,1.0,0.0
+50,B-wing,16.9,1.0,0.0
+51,Republic Cruiser,115,9.0,16.0
+52,Naboo fighter,11,1.0,0.0
+53,Scimitar,26.5,1.0,6.0
+54,J-type diplomatic barge,39,5.0,10.0
+55,Jedi starfighter,8,1.0,0.0
+56,Star Destroyer,"1,600",47060.0,0.0
+57,Trade Federation cruiser,1088,600.0,48247.0
+58,Theta-class T-2c shuttle,18.5,5.0,16.0
+59,Rebel transport,90,6.0,90.0
+60,Droid control ship,3170,175.0,139000.0
+61,Republic Assault ship,752,700.0,16000.0
+62,Solar Sailer,15.2,3.0,11.0
+63,Republic attack cruiser,1137,7400.0,2000.0
+64,Naboo star skiff,29.2,3.0,3.0
+65,Jedi Interceptor,5.47,1.0,0.0
+66,arc-170,14.5,3.0,0.0
+67,Belbullab-22 starfighter,6.71,1.0,0.0
+68,V-wing,7.9,1.0,0.0
+69,CR90 corvette,150,165.0,600.0
